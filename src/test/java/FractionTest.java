@@ -32,6 +32,7 @@ public class FractionTest {
         Fraction actual = new Fraction(1, 2);
         assertEquals(fraction.reduce(fraction), actual);
     }
+
    /* @Test
     public void testAdd(){
         Fraction one  = new Fraction(2, 6);

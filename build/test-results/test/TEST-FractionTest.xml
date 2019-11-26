@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FractionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-11-26T23:26:13" hostname="DESKTOP-M35LCRG" time="0.024">
+  <properties/>
+  <testcase name="testToString" classname="FractionTest" time="0.007"/>
+  <testcase name="testCompareTo" classname="FractionTest" time="0.0"/>
+  <testcase name="testGetRealValue" classname="FractionTest" time="0.0"/>
+  <testcase name="testEquals" classname="FractionTest" time="0.001"/>
+  <testcase name="testReduce" classname="FractionTest" time="0.0"/>
+  <testcase name="testConstructor" classname="FractionTest" time="0.012"/>
+  <system-out><![CDATA[invalid input
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
